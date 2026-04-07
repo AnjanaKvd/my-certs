@@ -1,0 +1,38 @@
+[
+  {
+    "id": "python-beginner-uom",
+    "title": "Python for Beginners",
+    "issuer": "University of Moratuwa",
+    "date": "2022-05",
+    "category": "certification",
+    "image": "./badges/python_beginner_UOM.png",
+    "credentialUrl": ""
+  },
+  {
+    "id": "python-programming-uom",
+    "title": "Python Programming",
+    "issuer": "University of Moratuwa",
+    "date": "",
+    "category": "certification",
+    "image": "./badges/Python_Programming_UOM.jpg",
+    "credentialUrl": ""
+  },
+  {
+    "id": "github-arctic-vault",
+    "title": "Arctic Code Vault Contributor",
+    "issuer": "GitHub",
+    "date": "2023-07",
+    "category": "badge",
+    "image": "./badges/github-arctic-vault.png",
+    "credentialUrl": ""
+  },
+  {
+    "id": "hackathon-winner",
+    "title": "HackFest 2024 — First Place",
+    "issuer": "HackFest",
+    "date": "2024-11",
+    "category": "achievement",
+    "image": "./badges/hackathon-winner.png",
+    "credentialUrl": ""
+  }
+]
