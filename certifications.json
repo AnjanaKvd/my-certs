@@ -1,35 +1,98 @@
 [
   {
-    "id": "python-beginner-uom",
-    "title": "Python for Beginners",
-    "issuer": "University of Moratuwa",
-    "date": "2022-05",
-    "category": "certification",
-    "image": "./badges/python_beginner_UOM.png",
-    "credentialUrl": ""
-  },
-  {
     "id": "python-programming-uom",
     "title": "Python Programming",
     "issuer": "University of Moratuwa",
     "date": "",
     "category": "certification",
     "image": "./badges/Python_Programming_UOM.jpg",
+    "credentialUrl": "open.uom.lk/verify"
+  },
+  {
+    "id": "aiml-stage1-sliit",
+    "title": "AI/ML Engineer - Stage 1",
+    "issuer": "SLIIT",
+    "date": "2022-06-25",
+    "category": "certification",
+    "image": "./badges/AIML_stage1_SLIIT.jpg",
     "credentialUrl": ""
   },
   {
-    "id": "github-arctic-vault",
-    "title": "Arctic Code Vault Contributor",
-    "issuer": "GitHub",
-    "date": "2023-07",
-    "category": "badge",
-    "image": "./badges/github-arctic-vault.png",
+    "id": "aiml-stage2-sliit",
+    "title": "AI/ML Engineer - Stage 2",
+    "issuer": "SLIIT",
+    "date": "2024-01-28",
+    "category": "certification",
+    "image": "./badges/AIML_stage2_SLIIT.jpg",
     "credentialUrl": ""
+  },
+  {
+    "id": "python-beginner-uom",
+    "title": "Python for Beginners",
+    "issuer": "University of Moratuwa",
+    "date": "2022-05",
+    "category": "certification",
+    "image": "./badges/python_beginner_UOM.png",
+    "credentialUrl": "open.uom.lk/verify"
+  },
+  {
+    "id": "simplilearn-ML",
+    "title": "Machine Learning",
+    "issuer": "Simplilearn",
+    "date": "2022-08-10",
+    "category": "certification",
+    "image": "./badges/Simplilearn_ML.jpg",
+    "credentialUrl": ""
+  },
+  {
+    "id": "cisco-cs-intro",
+    "title": "Introduction to Cybersecurity",
+    "issuer": "Cisco",
+    "date": "2021-08-21",
+    "category": "certification",
+    "image": "./badges/cisco_cs.jpg",
+    "credentialUrl": ""
+  },
+  {
+    "id": "google-ai-essentials-coursera",
+    "title": "Google AI Essentials",
+    "issuer": "Coursera",
+    "date": "2025-11-07",
+    "category": "certification",
+    "image": "./badges/google-ai-essentials-coursera.jpg",
+    "credentialUrl": "https://www.coursera.org/account/accomplishments/specialization/certificate/B9OL0Y3SWMJQ"
+  },
+  {
+    "id": "sololearn-sql",
+    "title": "SQL",
+    "issuer": "SoloLearn",
+    "date": "2019-05-20",
+    "category": "certification",
+    "image": "./badges/sololearn-sql.jpg",
+    "credentialUrl": "https://www.sololearn.com/certificates/CT-8MEC9PZ0"
+  },
+  {
+    "id": "github-foundation",
+    "title": "GitHub Foundations",
+    "issuer": "GitHub",
+    "date": "2025-06-28",
+    "category": "badge",
+    "image": "./badges/github-foundation.png",
+    "credentialUrl": "https://www.credly.com/badges/75654dd6-0841-4b62-8b2e-e3afbe102f3f"
+  },
+  {
+    "id": "intro-cs-cisco",
+    "title": "Introduction to Cybersecurity",
+    "issuer": "Cisco",
+    "date": "2021-08-21",
+    "category": "badge",
+    "image": "./badges/I2CS__1_.png",
+    "credentialUrl": "https://www.credly.com/earner/earned/badge/1a568436-a2e3-4a1d-878c-74206a81078b"
   },
   {
     "id": "hackathon-winner",
-    "title": "HackFest 2024 — First Place",
-    "issuer": "HackFest",
+    "title": "Hacktrail 2024 — 2nd Runner Up",
+    "issuer": "UOR ICTSC",
     "date": "2024-11",
     "category": "achievement",
     "image": "./badges/hackathon-winner.png",
